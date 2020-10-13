@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Master-Smiley/sora-full-stack-challenge#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "husky": "^4.3.0"
   }
 }
