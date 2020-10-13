@@ -23,10 +23,20 @@ We'll be examining the app's logic as well as its design and user experience. We
 
 ### Getting Started
 
-shell npm install
+```bash
+npm install
+```
+
 To run react app:
-shell cd client & npm start
+
+```bash
+cd client & npm start
+```
+
 To run express server:
-shell node server.js
+
+```bash
+node server.js
+```
 
 Feel free to use or scaffold code or completely disregard it! It's only there to make your life easier. A good place to start would be the 'server.js' file.
