@@ -39,4 +39,4 @@ To run express server:
 node server.js
 ```
 
-Feel free to use or scaffold code or completely disregard it! It's only there to make your life easier. A good place to start would be the 'server.js' file.
+Feel free to use the scaffold code or completely disregard it! It's only there to make your life easier. A good place to start would be the routes in the 'server.js' file.

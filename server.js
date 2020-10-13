@@ -65,12 +65,12 @@ app.get("/students", (req, res) => {
       ],
     },
   ];
-  res.send({ result: students });
+  res.send({});
 });
 
 app.get("/current-user-id", (req, res) => {
   const currentUserId = 1; // don't assume this will always be true
-  res.send({ result: currentUserId });
+  res.send({});
 });
 
 app.get("/faculty", (req, res) => {
@@ -86,7 +86,7 @@ app.get("/faculty", (req, res) => {
       subject_ids: [1, 2],
     },
   ];
-  res.send({ result: faculty });
+  res.send({});
 });
 
 app.get("/skills", (req, res) => {
@@ -122,5 +122,5 @@ app.get("/skills", (req, res) => {
       subject_id: 4,
     },
   ];
-  res.send({ result: skills });
+  res.send({});
 });
