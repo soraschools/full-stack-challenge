@@ -23,6 +23,8 @@ We'll be examining the app's logic as well as its design and user experience. We
 
 ### Getting Started
 
+Fork this repo. Then:
+
 ```bash
 npm install
 ```
