@@ -1,6 +1,6 @@
 ## Welcome to the Sora Full-Stack Coding Challenge!
 
-If you wish to work at Sora, follow the instructions below!
+If you wish to work at Sora, follow the instructions below! We would like to assess your skills for developing a full-stack app preferably in three domains of knowledge: React, NodeJS and a relational database of your choice.
 
 ### Challenge Description
 
@@ -17,9 +17,13 @@ _assuming you're the 'Tester' student_
 - skill_id === 4 => Faculty member 'Michael Granado'
 - skill_id === 6 => Student 'Max Stirner'
 
+### Bonus, the *Chef Kiss*
+
+If possible, we would like to have your personal touch on the project. This could be anything: an extra feature that makes the product better, a fantastic design element not specified in the challenge... This is an optional task that would help us assess your creativity and ownership over the stuff you will be developing.
+
 ### Judging Criteria
 
-We'll be examining the app's logic as well as its design and user experience. We expect the app to be reactive to different screen sizes. Imagine that your small app is going to production tommorrow! Although it's outside of the scope of this challenge, expect further questions about potential database desing.
+We'll be examining the app's logic, database architecture, its design and user experience. We expect the app to be reactive to different screen sizes. Imagine that your small app is going to production tomorrow!
 
 ### Getting Started
 
